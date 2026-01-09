@@ -22,13 +22,15 @@
         "autoMarkRead": false
     },
     "MODERATORS": [
-        "YOUR_UID_HERE"
+        "61568791604271",
+        "61580333625022"
     ],
     "ABSOLUTES": [
-        "YOUR_UID_HERE"
+        "61580333625022",
+        "61580333625022"
     ],
-    "NAME": "Xavia (Educ Bot)",
-    "PREFIX": "/",
+    "NAME": "test",
+    "PREFIX": "•",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
